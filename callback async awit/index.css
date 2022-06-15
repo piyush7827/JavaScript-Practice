@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+#timer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 80px;
+  background-color: aqua;
+  font-weight: 600;
+}

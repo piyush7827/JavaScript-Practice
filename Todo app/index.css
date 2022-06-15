@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+* {
+  background-color: lightblue;
+}
+
+ul li {
+  margin: 15px;
+}
